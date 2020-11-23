@@ -1,0 +1,77 @@
+.title{
+  background-color: #bce6eb;
+
+  padding: 5px;
+  margin: 0;
+}
+.title p{
+  font-size: 1em;
+}
+.title h1{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title_photo{
+  background-color: #839b97;
+}
+.title_photo img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-form{
+  width: 100%;
+  background-color: #bce6eb;
+}
+.contact-form p, form{
+  text-align: center;
+  margin: 0;
+}
+
+.achievement ul{
+  margin-left: 15%;
+}
+.achievement div{
+  margin-left: 20%;
+
+}
+.achievement img{
+  width: 15%;
+  height: auto;
+  float: left;
+}
+.delight img{
+  width: 14%;
+  height: auto;
+  float: left;
+}
+.delight div{
+  font-size: 1.2em;
+  margin-left: 17%;
+
+}
+.delight ol{
+  font-size: 1.2em;
+  margin-left: 15%;
+}
+.experience img{
+  width: 23%;
+  height: auto;
+  float: right;
+}
+
+
+.skills img{
+  width: 23%;
+  height: auto;
+  float: left;
+}
+.skills h3{
+  margin-left: 45%;
+}
+.skills table{
+  margin-left: 30%;
+}
